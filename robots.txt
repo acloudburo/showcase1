@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://showcase1.curation.space//sitemap.xml
