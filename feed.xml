@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://showcase1.curation.space/2015/11/15/example-with-lightbox-images.html"/>
     <id>https://showcase1.curation.space/2015/11/15/example-with-lightbox-images.html</id>
     <published>2015-11-15T02:17:54Z</published>
-    <updated>2015-11-15T14:18:01+00:00</updated>
+    <updated>2015-11-15T16:00:58+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -34,6 +34,13 @@
       &lt;/div&gt; 
       &lt;div&gt;
         Press on the picture to get a full image popup. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        You will find some documentation to the various image tags 
+       &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-picture-handling-in-evernote-notes.html" rel="nofollow"&gt;here&lt;/a&gt;. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
