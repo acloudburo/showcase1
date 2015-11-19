@@ -14,7 +14,7 @@
     <link rel="alternate" href="https://showcase1.curation.space/2015/11/15/example-with-youtube-videos.html"/>
     <id>https://showcase1.curation.space/2015/11/15/example-with-youtube-videos.html</id>
     <published>2015-11-15T04:18:17Z</published>
-    <updated>2015-11-18T23:12:24+00:00</updated>
+    <updated>2015-11-19T22:29:57+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -43,8 +43,19 @@
        &lt;a href="https://curation.cloudburo.net/2015/05/18/feature-video-handling-in-evernote-notes-youtube.html" rel="nofollow"&gt;here&lt;/a&gt;. 
       &lt;/div&gt; 
       &lt;div&gt; 
-       &lt;div&gt; 
-        &lt;br&gt; &lt;/p&gt;
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        The embedded video will be responsive, i.e. it will adjust itself to the various device sizes. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;br&gt; 
+      &lt;/div&gt; 
+      &lt;div&gt;
+        As shown in this example you can combine images with videos easily. 
+      &lt;/div&gt; 
+      &lt;div&gt; 
+       &lt;div&gt;&lt;/p&gt;
     
   &lt;/div&gt;
   &lt;div class="article"&gt;
