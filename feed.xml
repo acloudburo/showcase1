@@ -133,7 +133,7 @@
     <link rel="alternate" href="https://showcase1.curation.space/2015/11/15/example-with-lightbox-images.html"/>
     <id>https://showcase1.curation.space/2015/11/15/example-with-lightbox-images.html</id>
     <published>2015-11-15T02:17:54Z</published>
-    <updated>2015-11-18T23:12:22+00:00</updated>
+    <updated>2015-11-19T22:46:35+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -142,21 +142,22 @@
     &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
     
     &lt;p&gt;&lt;div&gt;
-        There are various possibilities how to position images in a note. This is a sample note which uses the tag 
-       &lt;strong&gt;clb-image-lightbox.&lt;/strong&gt; 
+        There are various possibilities to position images in a note. You can either pull a image to the left or right of the note in a free-floating or fixed format. 
+       &lt;span style=""&gt;This is a sample note which uses the tag &lt;/span&gt; 
+       &lt;strong style=""&gt;clb-image-lightbox.&lt;/strong&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        The lightbox image strategy will take the pictures in your note and convert them to thumbnail images on your web page. When clicking on the image on the website all &amp;ldquo;lightbox&amp;rdquo; popup will be opened which shows the picture in full quality. 
+        The lightbox image strategy takes the pictures in your note and converts them to thumbnail images on your web page. When clicking on the image on the website all &amp;ldquo;lightbox&amp;rdquo; popup will be opened which shows the picture in full quality. 
       &lt;/div&gt; 
       &lt;div&gt; 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt;
-        You will find image handling documentation on the Cloudburo Curation Platform documentation site ( 
-       &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-picture-handling-in-evernote-notes.html" rel="nofollow"&gt;here&lt;/a&gt;). 
+        You find the image handling documentation on the 
+       &lt;a href="https://curation.cloudburo.net/2015/05/14/feature-picture-handling-in-evernote-notes.html" rel="nofollow"&gt;Cloudburo Curation Platform documentation site&lt;/a&gt;. 
        &lt;br&gt; 
       &lt;/div&gt; 
       &lt;div&gt; 
